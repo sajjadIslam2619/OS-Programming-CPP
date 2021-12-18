@@ -1,0 +1,8 @@
+Softcopy: Please use BlackBoard to turn in your homework solutions.
+For programming questions, please do NOT use MS WORD.
+Please send .c files
+Some programming questions are used in previous semesters.
+Please do NOT borrow solutions from those students who have taken this class before.
+We keep a database of all previous solutions. 
+Programming solutions will be checked carefully for plagiarism.
+Students who are caught copying directly will receive 0 for this assignment.
